@@ -36,14 +36,17 @@ Que 6 - git push -u origin main - progress.txt edited on: local machine - comman
 Description: I conducted my first push, pushing my initial commit to my GitHub, abby_week1.
 
 
+
 Que 7 - No terminal command - progress.txt edited on: GitHub - command ran on: No command
 
 Description: I edited the progress.txt file directly on GitHub for this step.
 
 
+
 Que 8 - git pull origin main - progress.txt edited on: local machine - command ran on: local machine
 
 Description: After commiting the progress.txt changes on the GitHub website, I pulled the edited file into my local machine.
+
 
 
 Que 9 - git branch feature1 - progress.txt edited on: local machine - command ran on: local machine
