@@ -65,4 +65,13 @@ Description: I edited app.py, changing "Hello World" to print("Hello, World") so
 
 
 
+Que 12 - git add app.py, git commit -m "" - progress.txt edited on: local machine - command ran on: local machine
+
+Description: I added and commited the change from app.py to GitHub
+
+
+
+
+
+
 
