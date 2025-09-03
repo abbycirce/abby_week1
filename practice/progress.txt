@@ -46,3 +46,17 @@ Que 8 - git pull origin main - progress.txt edited on: local machine - command r
 Description: After commiting the progress.txt changes on the GitHub website, I pulled the edited file into my local machine.
 
 
+
+Que 9 - git branch feature1 - progress.txt edited on: local machine - command ran on: local machine
+
+Description: I created a new branch for a feature in my project.
+
+
+
+Que 10 - git checkout feature 1 - progress.txt edited on: local machine - command ran on: local machine
+
+Description: I switched to the new branch a just created for a feature.
+
+
+
+
