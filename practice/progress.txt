@@ -4,50 +4,33 @@
 
 Que 1 - git init - progress.txt edited on: local machine - command ran on: local machine
 
-Description: Initialized a Git repository in my project folder
+Description: I initialized a Git repository in my project folder.
 
 
 
 Que 2 - echo "Hello World" > app.py - progress.txt edited on: local machine - command ran on: local machine
 
-Description: "Created a sample Python file using echo command"
+Description: I created a sample Python file using echo command "Hello World".
 
 
 
 Que 3 - git add . - progress.txt edited on: local machine - command ran on: local machine
 
-Description: "Added all current files to the staging area"
+Description: I added all my current files in this project to the staging area.
 
 
 
 Que 4 - git commit -m "Initial commit" - progress.txt edited on: local machine - command ran on: local machine
 
-Description: "Committed the staged files with a message"
-
+Description: I committed the staged files with the message "Initial commit".
 
 
 Que 5 - git remote add origin <repo-url> - progress.txt edited on: local machine - command ran on: local machine
 
-Description: "Linked the local repository to GitHub repository"
+Description: I linked the local repository to my GitHub repository.
 
 
 
 Que 6 - git push -u origin main - progress.txt edited on: local machine - command ran on: local machine
 
-Description: "Pushed my initial commit to GitHub"
-
-
-
-# Steps after first push
-
--------------------------
-
-Que 7 - Edited progress.txt directly on GitHub - progress.txt edited on: GitHub website - command ran on: GitHub website
-
-Description: "Opened GitHub and added a new line to the progress.txt file"
-
-
-
-Que 8 - git pull origin main - progress.txt edited on: local machine - command ran on: local machine
-
-Description: "Pulled the updated version of progress.txt from GitHub"
+Description: I conducted my first push, pushing my initial commit to my Github, abby_week1.
