@@ -34,3 +34,8 @@ Description: I linked the local repository to my GitHub repository.
 Que 6 - git push -u origin main - progress.txt edited on: local machine - command ran on: local machine
 
 Description: I conducted my first push, pushing my initial commit to my Github, abby_week1.
+
+
+Que 7 - No terminal command - progress.txt edited on: Github - command ran on: No command
+
+Description: I edited the progress.txt file directly on Github for this step.
