@@ -121,6 +121,12 @@ Description: I used this command to check the last few commits I performed in a 
 
 
 
+Que 21 - git remote -v - progress.txt edited on: local machine - command ran on: local machine
+
+Description: I used this command to check the remote URL configuration.
+
+
+
 
 
 
