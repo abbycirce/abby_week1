@@ -55,8 +55,6 @@ Description: A created a new branch for a feature in this step.
 
 
 
-Que 14 - git merge feature1 - progress.txt edited on: local machine - command ran on: local machine
 
-Description: Merge feature1 into main
 
 
