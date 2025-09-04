@@ -154,7 +154,7 @@ Description: I pushed the .gitignore file to GitHub.
 
 Que 26 - Take screenshot - progress.txt edited on: GitHub Repository - command ran on: GitHub Repository
 
-Description: I went to my GitHub repository and took a screenshot of the graph showing my branching and merging history.
+Description: I went to my GitHub repository and took a screenshot of the graph showing my branching and merging history. This screenshot was pushed in the main branch, while the last few steps have been in the test-branch.
 
 
 
