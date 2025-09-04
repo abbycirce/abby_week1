@@ -79,6 +79,14 @@ Description: I switched back to the main branch in the practice folder
 
 
 
+Que 14 - git merge feature1 - progress.txt edited on: local machine - command ran on: local machine
+
+Description: I merged feature1 into the main branch so their progress.txt are now the same.
+
+
+
+
+
 
 
 
