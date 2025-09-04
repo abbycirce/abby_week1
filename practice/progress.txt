@@ -97,7 +97,7 @@ Description: I deleted the feature1 branch on my local machine.
 
 
 
-Que 16 - git checkout -b test-branch, git push -u origin test-branch - progress.txt edited on: local machine - command ran on: local machine
+Que 17 - git checkout -b test-branch, git push -u origin test-branch - progress.txt edited on: local machine - command ran on: local machine
 
 Description: I created a new remote branch and pushed it to GitHub.
 
