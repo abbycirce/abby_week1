@@ -91,6 +91,12 @@ Description: I pushed the updated main branch into GitHub.
 
 
 
+Que 16 - git branch -d feature1 - progress.txt edited on: local machine - command ran on: local machine
+
+Description: I deleted the feature1 branch on my local machine.
+
+
+
 
 
 
