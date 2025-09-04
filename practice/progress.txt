@@ -133,6 +133,13 @@ Description: I used this command to get a link to a guide for git branch, where 
 
 
 
+Que 23 - Use text editor - progress.txt edited on: local machine - command ran on: text editor
+
+Description: I added a .gitignore file to ignore .DS_Store and .ipynb_checkpoints/ and
+__pycache__/
+
+
+
 
 
 
