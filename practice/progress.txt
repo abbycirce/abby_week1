@@ -115,6 +115,12 @@ Description: I checked the current status of my working directory in the practic
 
 
 
+Que 20 - git log --oneline --graph - progress.txt edited on: local machine - command ran on: local machine
+
+Description: I used this command to check the last few commits I performed in a one-line summary with a graph for a visualization.
+
+
+
 
 
 
