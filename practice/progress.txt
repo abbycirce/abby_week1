@@ -103,6 +103,12 @@ Description: I created a new remote branch and pushed it to GitHub.
 
 
 
+Que 18 - git branch -a - progress.txt edited on: local machine - command ran on: local machine
+
+Description: I viewed all the branches in this project, both local and remote.
+
+
+
 
 
 
