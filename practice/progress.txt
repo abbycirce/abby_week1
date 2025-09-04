@@ -109,6 +109,12 @@ Description: I viewed all the branches in this project, both local and remote.
 
 
 
+Que 19 - git status - progress.txt edited on: local machine - command ran on: local machine
+
+Description: I checked the current status of my working directory in the practice folder.
+
+
+
 
 
 
