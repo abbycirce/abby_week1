@@ -127,6 +127,12 @@ Description: I used this command to check the remote URL configuration.
 
 
 
+Que 22 - git help branch - progress.txt edited on: local machine - command ran on: local machine
+
+Description: I used this command to get a link to a guide for git branch, where they showed me lots of commands for future reference.
+
+
+
 
 
 
