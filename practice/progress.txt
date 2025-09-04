@@ -146,6 +146,12 @@ Description: I added and commited the .gitignore file.
 
 
 
+Que 25 - git push - progress.txt edited on: local machine - command ran on: local machine
+
+Description: I pushed the .gitignore file to GitHub.
+
+
+
 
 
 
