@@ -71,6 +71,12 @@ Description: I added and commited the change from app.py to GitHub
 
 
 
+Que 13 - git checkout main - progress.txt edited on: local machine - command ran on: local machine
+
+Description: I switched back to the main branch in the practice folder
+
+
+
 
 
 
