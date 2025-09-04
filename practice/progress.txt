@@ -140,6 +140,10 @@ __pycache__/
 
 
 
+Que 24 - git add .gitignore, git commit -m "Add .gitignore file" - progress.txt edited on: local machine - command ran on: local machine
+
+Description: I added and commited the .gitignore file.
+
 
 
 
