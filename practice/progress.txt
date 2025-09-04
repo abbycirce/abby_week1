@@ -85,6 +85,12 @@ Description: I merged feature1 into the main branch so their progress.txt are no
 
 
 
+Que 15 - git push - progress.txt edited on: local machine - command ran on: local machine
+
+Description: I pushed the updated main branch into GitHub.
+
+
+
 
 
 
