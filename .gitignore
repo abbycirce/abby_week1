@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm project settings
+.idea/
+
+# Virtual environments
+.venv/
+venv/
